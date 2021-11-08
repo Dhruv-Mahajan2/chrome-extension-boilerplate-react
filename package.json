@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
+  "name": "quizautosubmit",
   "version": "4.2.0",
   "description": "A chrome extension boilerplate built with React 17, Webpack 5, and Webpack Dev Server 4",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/Dhruv-Mahajan2/chrome-extension-boilerplate-react"
   },
   "scripts": {
     "build": "node utils/build.js",
